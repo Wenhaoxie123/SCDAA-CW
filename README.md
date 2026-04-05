@@ -4,7 +4,7 @@ Code for the 2025/26 SCDAA coursework.
 - Wenhao Xie s2801571, contribution 1/3
 - Xiangfan Song s2883206, contribution 1/3
 - Yu Lin s2803592, contribution 1/3
-## Main code
+## Main cells
 - Exercise 1.1
 - Exercise 1.2
 - Neural networks
